@@ -1,0 +1,1 @@
+It is mobile responsive bootstrap template.

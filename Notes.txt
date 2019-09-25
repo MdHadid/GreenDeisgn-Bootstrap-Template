@@ -1,0 +1,38 @@
+First download html5 boiler template from here:
+https://html5boilerplate.com
+Copy and paste in your project.
+Thene keep folder css,img,js
+and file only index.html
+You can delete all other files & folders.
+----------------------------------------------------------
+Now go to index.html and if you dont' want you can 
+keep comment google analytic from then bottom of this file. 
+-----------------------------------------------------------
+Then download bootstrap from here:
+https://getbootstrap.com
+Copy and paste in your project.
+and link bootstrap css in head
+<link rel="stylesheet" href="css/bootstrap.min.css">
+It will be placed first of all stylesheet.
+and js in bottom of body.
+<script src="js/bootstrap.min.js"></script>
+It will be placed after all jquery.
+-----------------------------------------------------------
+Next download font awesome from here:
+https://fontawesome.com
+copy nad paste in our project and link all.css
+<link rel="stylesheet" href="fontawesome/css/all.css">
+It will be placed after bootstrap.
+------------------------------------------------------------
+For collect image form photoshop:
+Check top of right Auto Select Layer and Show Bounding Box
+is the on option or not.Its need on.
+Click on the left_sidebar-right-top move_tool
+and double click on the image for select
+Then go to right_sidebar-layer-alt+click on the specific 
+layer eye icon-top_right Image-trim-ok
+File-Save for Web-Select png from top_right and save your 
+local computer.
+For previous conditon go to history+Open
+------------------------------------------------------------
+
