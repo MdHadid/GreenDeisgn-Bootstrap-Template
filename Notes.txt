@@ -24,7 +24,7 @@ copy nad paste in our project and link all.css
 <link rel="stylesheet" href="fontawesome/css/all.css">
 It will be placed after bootstrap.
 ------------------------------------------------------------
-For collect image form photoshop:
+For collect image from photoshop:
 Check top of right Auto Select Layer and Show Bounding Box
 is the on option or not.Its need on.
 Click on the left_sidebar-right-top move_tool
